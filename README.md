@@ -10,3 +10,5 @@ yeah i know there are more than 3 browsers, but there is none afaik that does ha
 
 
 see where i am going with this? most of what you get from your apps now you could do on your damned smartphone and it would probably take less power because you wouldn't have to communicate with all the sync servers that now save your data in the cloud.
+
+the internet is a trashcan and internet browsers are as much help as half a pair of holey gloves would be for dumpster diving
