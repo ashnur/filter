@@ -1,5 +1,13 @@
-# actually-a-browser
+## filter
+#### actually a browser
 
+there are many features an actual browser has, one of these is the efficient search that enables the person doing the search to exclude irrelevant data
+
+
+
+
+<rant>
+ 
 i am sick of the current palette.  
 
 yeah i know there are more than 3 browsers, but there is none afaik that does half the things at least that i need
@@ -14,3 +22,4 @@ see where i am going with this? most of what you get from your apps now you coul
 the internet is a trashcan and internet browsers are as much help as half a pair of holey gloves would be for dumpster diving
 
 i want an browser that is built on **event sourcing**. the browser is a platform and i want good platform wide logs about everything.
+
