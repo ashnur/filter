@@ -3,7 +3,8 @@
 
 there are many features an actual browser has, one of these is the efficient search that enables the person doing the search to exclude irrelevant data
 
-
+I decided I will keep a list of links that perhaps give a better understanding why this repo exist.
+https://utcc.utoronto.ca/~cks/space/blog/web/MozillaBetraysFirefoxUsers
 
 
 <rant>
