@@ -24,3 +24,5 @@ the internet is a trashcan and internet browsers are as much help as half a pair
 
 i want an browser that is built on **event sourcing**. the browser is a platform and i want good platform wide logs about everything.
 
+References:
+http://blogs.harvard.edu/doc/2018/03/23/nothing/
