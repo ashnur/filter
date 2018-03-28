@@ -26,3 +26,4 @@ i want an browser that is built on **event sourcing**. the browser is a platform
 
 References:
 http://blogs.harvard.edu/doc/2018/03/23/nothing/
+https://blog.mozilla.org/blog/2018/03/27/facebook-container-add-on/
