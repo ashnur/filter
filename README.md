@@ -1,7 +1,29 @@
-## filter
+> “There is a becoming of continuity, but no continuity of becoming."
+-- Whitehead
+
+
+# filter
+
+
+
+what does it filter?
+communication.
+specifically, communication between software programs. 
+
 #### actually a browser
 
-there are many features an actual browser has, one of these is the efficient search that enables the person doing the search to exclude irrelevant data
+but that is not a good name. 
+we do not "browse", we seek. 
+we do not browse, we read, watch, listen.
+
+we type, we talk, we sing, we present, we perform
+
+we do not browse. the internet is not a supermarket
+
+but it is a market for our attention and we should organize our interaction with our machines in a more useful manner, than just "casually look" at them, otherwise we will not just be exploited by those who might have an influence on what we interact with, but also, we became very susceptible to became stuck in a bubble that we don't even notice. 
+
+most importantly, we should be aware of the origin, the timeframe, the accuracy, the precision and the lifecycle of the data we are looking at and we should be able to navigate among these axis efficiently and with complete transparency. 
+
 
 I decided I will keep a list of links that perhaps give a better understanding why this repo exist.
 https://utcc.utoronto.ca/~cks/space/blog/web/MozillaBetraysFirefoxUsers
