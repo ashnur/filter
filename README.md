@@ -47,6 +47,6 @@ the internet is a trashcan and internet browsers are as much help as half a pair
 i want an browser that is built on **event sourcing**. the browser is a platform and i want good platform wide logs about everything.
 
 References:
-http://blogs.harvard.edu/doc/2018/03/23/nothing/
-https://blog.mozilla.org/blog/2018/03/27/facebook-container-add-on/
-https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
+- http://blogs.harvard.edu/doc/2018/03/23/nothing/
+- https://blog.mozilla.org/blog/2018/03/27/facebook-container-add-on/
+- https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
