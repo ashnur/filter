@@ -1,3 +1,10 @@
+
+[this:https://twitter.com/cognitect/status/1068223505764950018, but for everyone, on mobile](https://twitter.com/cognitect/status/1068223505764950018)
+===
+
+
+
+
 > “There is a becoming of continuity, but no continuity of becoming."
 -- Whitehead
 
