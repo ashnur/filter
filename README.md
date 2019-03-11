@@ -57,3 +57,4 @@ References:
 - http://blogs.harvard.edu/doc/2018/03/23/nothing/
 - https://blog.mozilla.org/blog/2018/03/27/facebook-container-add-on/
 - https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
+- http://www.ianbicking.org/blog/2019/03/firefox-experiments-i-would-have-liked.html
