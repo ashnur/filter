@@ -58,3 +58,4 @@ References:
 - https://blog.mozilla.org/blog/2018/03/27/facebook-container-add-on/
 - https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html
 - http://www.ianbicking.org/blog/2019/03/firefox-experiments-i-would-have-liked.html
+- https://www.forbes.com/sites/cognitiveworld/2019/03/15/society-desperately-needs-an-alternative-web
